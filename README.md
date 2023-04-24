@@ -6,7 +6,7 @@
 ## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png" width="40px" height="40px" /> About Me
 My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I aspire to be employed as a Front-End/Web Developer based on my outstanding technical and interpersonal skills I have acquired and practiced. 
 
-##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="60px" height="40px" /> Currently Working On
+##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="40px" height="40px" /> Currently Working On
 <!--
 **LuisFernandoVillalon/LuisFernandoVillalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
