@@ -10,7 +10,7 @@ My name is Luis F. Villalon, I love to challenge myself and improve myself by 1%
 Currently half-ways through the <a href="https://www.theodinproject.com/">Odin Project</a> curriculum to teach myself full-stack web development. About to begin the back-end portion of the curriculum. Just finished the final project of the JavaScript portion, which was to create a Reddit-like clone. Actively looking for employment. 
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/ironcat.jpg" width="40px" height="40px" /> Technologies
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="600px" height="300px">
+<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="600px" height="200px">
 - React.js
 - Firebase
 
