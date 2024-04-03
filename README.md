@@ -12,7 +12,7 @@ Actively refining my front-end and back-end development skills by creating full-
 photo-tagging game where the top ten records are saved. Currently attending college and will begin to develop a personal portfolio page.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/ironcat.jpg" width="40px" height="40px" /> Technologies
-✍🏽 Programming Languages and Frameworks: Java, JavaScript 
+✍🏽 Programming Languages and Frameworks: Java, JavaScript
 🖼️ Frontend Development: HTML, CSS, React.js
 💾 Backend Development and Services: Node.js, Express.js, Firebase, Mongoose, MongoDB, NoSQL
 👥 Version Control and Collaboration: Github
