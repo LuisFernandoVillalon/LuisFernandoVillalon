@@ -5,17 +5,17 @@
 
 
 ## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png" width="40px" height="40px" /> About Me
-My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I aspire to be employed as a Front-End/Web Developer based on my outstanding technical and interpersonal skills I have acquired and practiced. 
+My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I have been learning full stack development for three years and I am currently pursuing a B.S. in Computer Science. I am eager to make waves in the tech industry as a full-stack/software engineer.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="40px" height="40px" /> Currently Working On
-Currently half-ways through the <a href="https://www.theodinproject.com/">Odin Project</a> curriculum to teach myself full-stack web development. About to begin the back-end portion of the curriculum. Just finished the final project of the JavaScript portion, which was to create a Reddit-like clone. Actively looking for employment as a Front-end developer. 
+Actively refining my front-end and back-end development skills by creating full-stack applications. Recent projects have included a message board with full CRUD functionality with APIs I created. As well as a
+photo-tagging game where the top ten records are saved. Currently attending college and will begin to develop a personal portfolio page.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/ironcat.jpg" width="40px" height="40px" /> Technologies
-- HTML
-- CSS
-- JavsScript
-- React.js
-- Firebase
+✍🏽 Programming Languages and Frameworks: Java, JavaScript 
+🖼️ Frontend Development: HTML, CSS, React.js
+💾 Backend Development and Services: Node.js, Express.js, Firebase, Mongoose, MongoDB, NoSQL
+👥 Version Control and Collaboration: Github
 
 ## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="40px" height="40px" /> Git Stats
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandovillalon)](https://github.com/luisfernandovillalon/github-readme-stats)
