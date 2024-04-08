@@ -20,10 +20,6 @@ photo-tagging game where the top ten records are saved. Currently attending coll
 
 👥 Version Control and Collaboration: Github
 
-
-## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="40px" height="40px" /> Git Stats
-[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandovillalon)](https://github.com/luisfernandovillalon/github-readme-stats)
-
 ## 📫 Contact Me!
 - 📧: luisfvilla012@gmail.com
 - 💼: https://www.linkedin.com/in/luis-villalon/
