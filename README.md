@@ -5,7 +5,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png" width="40px" height="40px" /> About Me
-My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I have been learning full stack development for three years and I am currently pursuing a B.S. in Computer Science. I am eager to make waves in the tech industry as a full-stack/software engineer.
+My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I mastered full stack development through online resources and I am currently pursuing a B.S. in Computer Science. I am eager to make waves in the tech industry as a full-stack/software engineer with my unique style of problem-solving.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="40px" height="40px" /> Currently Working On
 Actively refining my front-end and back-end development skills by creating full-stack applications. Recent projects have included a message board with full CRUD functionality with APIs I created. As well as a
