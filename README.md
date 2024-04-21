@@ -18,9 +18,7 @@ Continuously learning:  Regularly adding assignments from my Introduction to Dat
 
 👥 Version Control and Collaboration: Github
 
-[![LuisFernandoVillalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoVillalon)](https://github.com/LuisFernandoVillalon/github-readme-stats&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoVillalon&layout=donut)](https://github.com/LuisFernandoVillalon/github-readme-stats)
+[![LuisFernandoVillalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoVillalon)](https://github.com/LuisFernandoVillalon/github-readme-stats&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoVillalon&layout=donut)](https://github.com/LuisFernandoVillalon/github-readme-stats)
 
 ## 📫 Contact Me!
 - 📧: luisfvilla012@gmail.com
