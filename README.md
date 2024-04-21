@@ -4,11 +4,10 @@
 
 
 ## <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png" width="40px" height="40px" /> About Me
-My name is Luis F. Villalon, I love to challenge myself and improve myself by 1% everyday. I mastered full stack development through online resources and I am currently pursuing a B.S. in Computer Science. I am eager to make waves in the tech industry as a full-stack/software engineer with my unique style of problem-solving.
+Enthusiastic self-taught software developer with a strong foundation in JavaScript and Java. Skilled in building user interfaces with React.js and backend applications with Express.js.  Certified in Responsive Web Design and JavaScript Algorithms and Data Structures through freeCodeCamp as well as MongoDB Database Management through MongoDB.  Currently pursuing a B.S. in Computer Science to further enhance my knowledge. Eager to collaborate on projects that push the boundaries of Human-Computer Interaction (HCI), leveraging my skills to create intuitive and user-friendly experiences.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="40px" height="40px" /> Currently Working On
-Actively refining my front-end and back-end development skills by creating full-stack applications. Recent projects have included a message board with full CRUD functionality with APIs I created. As well as a
-photo-tagging game where the top ten records are saved. Currently attending college and will begin to develop a personal portfolio page.
+Continuously learning:  Regularly adding assignments from my Introduction to Data Structures course to my repository to solidify my understanding of fundamental algorithms and data structures.  Building a personal portfolio website to showcase my skills and projects (link coming soon!).  Actively honing my TypeScript skills through coding exercises on Exercism.io.  Excited to embark on personal React Native projects to further enhance my mobile development capabilities.
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/ironcat.jpg" width="40px" height="40px" /> Technologies
 ✍🏽 Programming Languages and Frameworks: Java, JavaScript
